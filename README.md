@@ -12,4 +12,4 @@ React의 기본 기능뿐만 아니라 다양한 package, google Api, 그리고 
 
 프로젝트 배포를 위해 Netlify를 사용했습니다.
 
-<a href="https://react2-youtube.netlify.app/" target="_blank">[react2-youtube]</a>
+[react2-youtube](https://react2-youtube.netlify.app/)
